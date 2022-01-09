@@ -1,4 +1,4 @@
-# FVTT-Chat-Message-Accessibility-Indicators
+# FVTT-Chat-Message-Accessibility-Indicators (forked from [source](https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators) which is archived and not marked as compatible)
 
 Adds a textual tag to chat messages to easily identify whether the message is a whisper, blind roll, or self roll.
 
