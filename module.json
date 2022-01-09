@@ -2,8 +2,8 @@
   "name": "chat-indicators",
   "title": "Chat Message Accessibility Indicators",
   "description": "Adds a textual tag to chat messages to easily identify whether the message is a whisper, blind roll, or self roll. Additionally, makes it easier to identify the participants in a whisper.",
-  "version": "1.0.0",
-  "author": "Cole Schultz (cole#9640)",
+  "version": "1.0.1",
+  "author": "Cole Schultz (cole#9640), forked by shem (shem#0226)",
   "languages": [
       {
           "lang": "en",
@@ -18,11 +18,11 @@
     "chat-indicators.css"
   ],
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.6.2",
-	"url": "https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators",
-	"manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators/master/module.json",
-	"download": "https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators/archive/1.0.0.zip",
-	"license": "https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators/blob/1.0.0/LICENSE",
-	"readme": "https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators/blob/1.0.0/README.md",
-	"changelog": "https://github.com/schultzcole/FVTT-Chat-Message-Accessibility-Indicators/blob/1.0.0/CHANGELOG.md"
+  "compatibleCoreVersion": "9",
+	"url": "https://github.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators",
+	"manifest": "https://raw.githubusercontent.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators/master/module.json",
+	"download": "https://github.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators/archive/1.0.1.zip",
+	"license": "https://github.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators/blob/master/LICENSE",
+	"readme": "https://github.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators/blob/master/README.md",
+	"changelog": "https://github.com/itamarcu/FVTT-Chat-Message-Accessibility-Indicators/blob/master/CHANGELOG.md"
 }
